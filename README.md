@@ -1,4 +1,4 @@
-<h1 align="center">Tinder Clone ✨</h1>
+<h1 align="center">SWIPE ✨</h1>
 
 
 About This Course:
